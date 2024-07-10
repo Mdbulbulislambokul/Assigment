@@ -24,9 +24,39 @@ header{
     border-radius: 5px;
     font-size: 15px;
 }
-.section-main{
 
-}
 .main-section{
     text-align: center;
+}
+.cards{
+    /* display: flex; */
+   /* fiex-wrap */
+    text-align: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card-1{
+    /* display: flex; */
+    justify-content: center;
+
+    /* gap: 20px; */
+    background: #FFF;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.section-1{
+    text-align: center;
+    margin-top: 90px;
+}
+.section-2{
+    text-align: center;
+    margin-top: 50px;
+    /* border: #ffffff; */
+}
+
+.section-3{
+    
 }
