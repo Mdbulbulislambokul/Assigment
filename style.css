@@ -1,0 +1,32 @@
+header{
+    
+    background-image: url(./B10A1-Challenge-Begins/assets/Hero-bg.png);
+}
+.header-section{
+    display: flex;
+    justify-content: center;
+    gap: 750px;
+}
+.button-a{
+    /* background:#FFF ; */
+    color:#0D1321 ;
+    border-radius: 5px;
+    margin-top: 18px;
+    background-color: #FFF;
+}
+.header-contianer{
+   text-align: center;
+}
+.button-c{
+    background: #0D1321;
+    color: #FFF;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.section-main{
+
+}
+.main-section{
+    text-align: center;
+}
